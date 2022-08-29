@@ -34,7 +34,7 @@ useDeviceLanguage --> If this parameter is true, then app is going to be use you
 defaultLanguage   --> This String value should be the shortcut of the language you want it to be default.
                       And ofcourse that language config must be added to your custom Language class.
 
-languagesMap      --> This is the part you will tell to LanguageBuilder what languages and prepared texts 
+languagesMap      --> This is the part you will tell LanguageBuilder what languages and prepared texts 
                       it should use. 
 
 child             --> This is your root widget.
@@ -42,7 +42,7 @@ child             --> This is your root widget.
 splash            --> This widget can be used for splash screen if you have a splash to run at the startup.
                       By Default this is an empty widget. (this is optional)
 
-    Information About Language Class
+Information About Language Class
 
 In order to create your custom language configurations, you should create a dart file in your project path.
 For example, create language.dart file and insert your configuration by using following format.
