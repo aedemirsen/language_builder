@@ -152,4 +152,8 @@ You can get this package's source files, have a visit :
 
 https://github.com/aedemirsen/language_builder
 
+Get the package:
+
+https://pub.dev/packages/language_builder
+
 Package is still being developed. Feel free to contribute. Please send me an email if you encounter any bugs or exceptions. 
